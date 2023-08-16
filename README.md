@@ -7,7 +7,7 @@
 
 ### Typography dan General Styling
 
-- `*`: Tetapkan ukuran kotak, margin, dan padding yang konsisten untuk semua elemen.
+- `*`: Menetapkan ukuran margin, dan padding.
 
 - `html`: Bypass ukuran 1 rem dari 16 px menjadi 10 px (10/16 = 62,5%) untuk ukuran rem yang lebih mudah di hitung.
 
