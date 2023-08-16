@@ -13,7 +13,7 @@
 
 - `body`: Menentukan font family, size, weight, color, dan menghandle overflow.
 
-##CSS
+## CSS
 ### Header Styling
 
 - `.header`: Memposisi kan header, menentukan background color, height, dan padding.
