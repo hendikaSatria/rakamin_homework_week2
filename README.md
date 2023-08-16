@@ -1,9 +1,6 @@
 # Home Work Week 2
 
 ## HTML
-
-The HTML structure includes the following sections:
-
 - **Header**: Berisi logo, menu navigasi, dan tombol navigasi seluler.
 - **Main**: Termasuk berbagai bagian seperti bagian pahlawan, bagian konten, dan bagian galeri.
 - **Footer**: Berisi informasi kontak.
