@@ -78,3 +78,20 @@
 - Memilih elemen `btn-mobile-nav` menggunakan `querySelector`.
 - Menambahkan event listener untuk event `'click'` untuk mengaktifkan class `open` pada elemen `header`.
 - Toggling class open untuk header saat di `'click'`.
+
+## ScreenShot
+-Desktop/Larger Screen.
+
+![Relative Image](/ss/desktop1.PNG)
+![Relative Image](/ss/desktop2.PNG)
+![Relative Image](/ss/desktop3.PNG)
+
+-Medium Screen
+![Relative Image](/ss/med1.PNG)
+![Relative Image](/ss/med2.PNG)
+![Relative Image](/ss/med3.PNG)
+
+-Phone
+
+![Relative Image](/ss/phone1.PNG) ![Relative Image](/ss/phone2.PNG) ![Relative Image](/ss/phone3.PNG)
+![Relative Image](/ss/phone4.PNG) ![Relative Image](/ss/phone5.PNG) ![Relative Image](/ss/phone6.PNG)
