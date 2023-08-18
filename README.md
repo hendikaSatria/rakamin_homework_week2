@@ -7,11 +7,13 @@
 
 ### Typography dan General Styling
 
-- `*`: Tetapkan ukuran kotak, margin, dan padding yang konsisten untuk semua elemen.
+- `*`: Menetapkan ukuran margin, dan padding.
 
-- `html`: Setting ukuran font dasar menjadi 62,5% untu satuan rem yang lebih mudah di hitung.
+- `html`: Bypass ukuran 1 rem dari 16 px menjadi 10 px (10/16 = 62,5%) untuk ukuran rem yang lebih mudah di hitung.
 
 - `body`: Menentukan font family, size, weight, color, dan menghandle overflow.
+
+## CSS
 
 ### Header Styling
 
