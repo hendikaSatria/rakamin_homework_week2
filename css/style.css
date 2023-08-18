@@ -229,6 +229,7 @@ body {
 .content-img{
     width: 24rem;
     height: 20rem;
+    margin-bottom: 0.4rem;
 }
 
 .btn--content{
